@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "final-flows": {
-      "url": "https://build.finalpos.com/api/mcp"
+      "url": "https://flow.finalpos.com/api/mcp"
     }
   }
 }
