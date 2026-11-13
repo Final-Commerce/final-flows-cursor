@@ -1,7 +1,7 @@
 # Final Flows — Cursor plugin
 
 Build real point-of-sale software from Cursor. This plugin connects Cursor to
-the [Final Flows MCP server](https://build.finalpos.com), so your agent can
+the [Final Flows MCP server](https://flow.finalpos.com), so your agent can
 design, preview, validate, and deploy POS / kiosk / self-checkout apps on the
 [Final](https://finalpos.com) commerce platform.
 
@@ -32,7 +32,7 @@ Install from the Cursor Marketplace, or add the MCP server directly to
 {
   "mcpServers": {
     "final-flows": {
-      "url": "https://build.finalpos.com/api/mcp"
+      "url": "https://flow.finalpos.com/api/mcp"
     }
   }
 }
@@ -50,7 +50,7 @@ Prefer a static key? Mint an organization API key in the Final builder
 {
   "mcpServers": {
     "final-flows": {
-      "url": "https://build.finalpos.com/api/mcp",
+      "url": "https://flow.finalpos.com/api/mcp",
       "headers": { "Authorization": "Bearer sk_..." }
     }
   }
@@ -63,7 +63,7 @@ OAuth connection) at any time to cut off access.
 ## Links
 
 - Platform: https://finalpos.com
-- Builder: https://build.finalpos.com
+- Builder: https://flow.finalpos.com
 - Privacy: https://finalpos.com/legal/privacy
 - Terms: https://finalpos.com/legal/terms
 - Support: support@finalpos.com

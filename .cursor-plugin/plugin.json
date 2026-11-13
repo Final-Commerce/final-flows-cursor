@@ -1,7 +1,7 @@
 {
   "name": "final-flows",
   "description": "Build custom point of sale, kiosk, self-checkout & in-person payment apps on the Final platform — grounded API lookups, vetted screen blueprints, live sandbox previews, station-syncing data tables, and one-command deploys.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": { "name": "Final", "email": "support@finalpos.com" },
   "homepage": "https://finalpos.com",
   "repository": "https://github.com/Final-Commerce/final-flows-cursor",
